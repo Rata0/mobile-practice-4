@@ -1,6 +1,6 @@
 import * as SQLite from "expo-sqlite";
 
-const databaseName = "products123";
+const databaseName = "products";
 
 const initializeDatabase = async () => {
   try {
