@@ -1,8 +1,8 @@
 {
   "expo": {
-    "scheme": "my-app",
-    "name": "my-app",
-    "slug": "my-app",
+    "scheme": "mobile-practice-4",
+    "name": "mobile-practice-4",
+    "slug": "mobile-practice-4",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
